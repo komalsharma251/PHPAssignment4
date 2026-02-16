@@ -1,19 +1,3 @@
-Got it! 😄 Let’s make your README look professional and visually organized for GitHub. We can use:
-
-# and ## for headings
-
-Bold text for emphasis (**text**)
-
-Italics for subnotes (*note*)
-
-Lists with bullets (-)
-
-Tables for project comparisons
-
-Horizontal lines (---) to separate sections
-
-Here’s your enhanced README with clean formatting and highlights:
-
 💻 PHP Tech Support Project
 
 Author: Komal Sharma
